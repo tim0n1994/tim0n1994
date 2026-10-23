@@ -1,38 +1,61 @@
-### Hi, I'm tim0n 👋
+# tim0n / Urban Renaissance
 
-[![Email](https://img.shields.io/badge/Email-tim0n@qq.com-000?style=flat&logo=maildotru&logoColor=white)](mailto:tim0n@qq.com)
+我为一个组织里同时存在人和 AI 智能体的世界，设计能够承担责任的系统。
 
-**Urban Renaissance.** I work on organization science for a world where some of the members are agents: who intends, who commits, who is authorized to act, and who checks that it actually happened.
+I build systems for a world where agents can act: who intends, who commits, who is authorized to act, and who checks that it actually happened.
 
-**城市文艺复兴。** 我研究的是组织科学——当组织里开始出现 AI 智能体，意图由谁提出、责任由谁承担、行动由谁授权、结果由谁核验。
+我的项目反复追问同一个问题：
 
-Every project below is the same loop on a different surface. 下面每个项目，都是同一条链路落在不同的场景里：
+> 当系统可以替你行动时，谁保留意图，谁承担责任，谁授予权限，谁核验结果？
 
 ```
 intent → request → commitment → authorization → action → verification
 意图   →  请求   →    承诺     →     授权      →  行动  →    核验
 ```
 
-#### Building · 在做
+## Projects
 
-- **[LeuBai 留白](https://github.com/tim0n1994/leubai-v2)** - A local-first Personal Agency Layer: intent, responsibility, authorization and unscheduled time on one verifiable timeline. A request is not a commitment, a suggestion is not consent, and "sent" is not "received". `TypeScript`
-  <br>一个本地优先的个人能动层：把意图、责任、授权与留白放在同一条可核验的时间线上。请求不等于承诺，建议不等于授权，「已发出」不等于「已收到」。
+### [LeuBai 留白](https://github.com/tim0n1994/leubai-v2)
 
-- **[Udify](https://github.com/tim0n1994/udify)** - Intent-driven content evolution and the creator ecosystem around it. Say how you want a game, song, video or novel changed; Udify reads its structure, plans atomic edits, runs them and checks the result still works. Creation as transformation, not generation. `Python`
-  <br>意图驱动的内容演化系统，以及围绕它的创作者生态。说出你想怎样魔改一个游戏、一首歌、一段视频或一部小说，Udify 理解其结构、拆解为原子操作、执行并评估结果。创作是变换，不是生成。
+**把时间还给人。**
 
-- **[World Patch 现实补丁](https://github.com/tim0n1994/ohmyrokid)** - A Rokid Glasses agent (hackathon build). Tell the glasses what you want reality to look like; it diffs the current world against the target and walks you through the patch, verifying each step. `JavaScript`
-  <br>Rokid 眼镜黑客松作品。告诉眼镜你想让现实变成什么样，它比对当前世界与目标状态的差异，一步步引导你修改现实，并核验每一步。
+A local-first Personal Agency Layer for keeping intent, responsibility, authorization, action, and protected time on one verifiable timeline.
 
-#### Contributing to · 参与贡献
+请求不自动成为责任，建议不自动成为授权，执行也不自动等于外部结果已经发生。
 
-- **[atman](https://github.com/W-Mai/atman)** - Flow-driven agent runtime in Rust with the `.at` DSL. Added fmt, clippy and test CI ([#1](https://github.com/W-Mai/atman/pull/1), open).
-  <br>Rust 编写的流程驱动智能体运行时。补充了 fmt / clippy / test 的 CI 工作流。
+### [Udify](https://github.com/tim0n1994/udify)
 
-#### Thinking about · 在想
+**Tell a game what to change. Approve the patch before it touches your files.**
 
-- Delegation and accountability when the delegate is an agent — 当受托方是 AI，委托与问责如何重新设计
-- Keeping unknowns unknown until something outside the model confirms them — 未经外部核验的结果，就保持「未知」
-- Borrowing from philosophy, biology and anthropology when a system needs a shape — 让哲学、生物学与人类学为系统提供形状
+Intent-driven content evolution: Udify reads a game's structure, turns a plain-language request into atomic edits, shows the evidence, validates the result, and keeps the change reversible.
 
-> 求真大于一切 — Truth over everything. Experiment first, and be honest about what didn't work.
+创作在这里是变换，不是生成。
+
+### [World Patch 现实补丁](https://github.com/tim0n1994/ohmyrokid)
+
+**让眼镜理解你想要的现实，并带你把它改出来。**
+
+A Rokid Glasses prototype that observes the current world, compares it with a target state, guides a step-by-step patch, and verifies each transition.
+
+### [atman](https://github.com/tim0n1994/atman)
+
+**Contributing to a flow-driven agent runtime.**
+
+我在这个 fork 中补充 fmt、clippy 和 test CI；项目本体属于 [W-Mai/atman](https://github.com/W-Mai/atman)。
+
+## The common thread
+
+我不把“模型说了什么”当成“世界发生了什么”。
+
+我关心的是可追踪的状态变化：意图如何变成请求，请求何时被接受，行动由谁授权，执行留下什么证据，外部结果是否真的被核验。
+
+## Thinking about
+
+- Delegation and accountability when the delegate is an agent  
+  当受托方是 AI，委托与问责如何重新设计
+- Keeping unknowns unknown until something outside the model confirms them  
+  未经外部核验的结果，就保持“未知”
+- Borrowing from philosophy, biology and anthropology when a system needs a shape  
+  让哲学、生物学与人类学为系统提供形状
+
+> 求真大于一切。Truth over everything. Experiment first, and be honest about what did not work.
