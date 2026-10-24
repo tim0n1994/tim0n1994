@@ -81,6 +81,14 @@ A fork of [morluto/rea](https://github.com/morluto/rea): one MCP surface for und
 
 A fork of [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer), maintained as a downstream workspace with upstream attribution intact.
 
+### [Apollo](https://github.com/tim0n1994/Apollo)
+
+**Air Instrument V3：把空气做成一种可演奏、可感知的接口。**
+
+An openvela based bimanual AI air instrument prototype for the 2026 openvela AI Hardware Contest.
+
+[Pre-release firmware v0.1.0-demo.3](https://github.com/tim0n1994/Apollo/releases/tag/v0.1.0-demo.3)
+
 ## The common thread
 
 我不把“模型说了什么”当成“世界发生了什么”。
