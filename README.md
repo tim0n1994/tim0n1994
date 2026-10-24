@@ -25,6 +25,16 @@ A local-first Personal Agency Layer for keeping intent, responsibility, authoriz
 
 [Preview release v0.0.0-preview.1](https://github.com/tim0n1994/leubai-v2/releases/tag/v0.0.0-preview.1) · [README](https://github.com/tim0n1994/leubai-v2/blob/main/README.md)
 
+### [Muses](https://github.com/tim0n1994/muses)
+
+**The local state machine between developer signals and machine action.**
+
+Muses turns editor and session signals into explainable belief state, conservative policy, and reversible soundscape effects. It keeps the seam between inference and action visible: `signal → state → policy → effect → receipt`.
+
+把开发者周围的真实信号变成可解释的状态、保守的策略和可回看的声音动作；未知可以保持未知，行动必须留下证据。
+
+[Internal preview v0.3.0-internal.2](https://github.com/tim0n1994/muses/releases/tag/v0.3.0-internal.2) · [README](https://github.com/tim0n1994/muses/blob/main/README.md) · [CI](https://github.com/tim0n1994/muses/actions/runs/40081644038)
+
 ### [Udify](https://github.com/tim0n1994/udify)
 
 **Tell a game what to change. Approve the patch before it touches your files.**
