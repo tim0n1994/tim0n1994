@@ -23,6 +23,8 @@ A local-first Personal Agency Layer for keeping intent, responsibility, authoriz
 
 请求不自动成为责任，建议不自动成为授权，执行也不自动等于外部结果已经发生。
 
+[Preview release v0.0.0-preview.1](https://github.com/tim0n1994/leubai-v2/releases/tag/v0.0.0-preview.1) · [双语 README](https://github.com/tim0n1994/leubai-v2/blob/main/README.md)
+
 ### [Udify](https://github.com/tim0n1994/udify)
 
 **Tell a game what to change. Approve the patch before it touches your files.**
