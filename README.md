@@ -51,11 +51,11 @@ An internal MVP for signals, responses, consent, and weekly loop weather, with t
 
 ### [Eagleye](https://github.com/tim0n1994/eagleye)
 
-**An intelligence pipeline hosted on Argus ThinkPad.**
+**A scraper stops at documents. Eagleye keeps the chain from source to brief inspectable.**
 
-The internal release packages the verified code line; live corpus, credentials, and ThinkPad runtime remain deployment inputs.
+An evidence-linked intelligence pipeline for collection, enrichment, translation, knowledge graph work, and operator-facing briefs. Provenance, feed health, retry state, and runtime boundaries stay visible in the design.
 
-[Internal release v1.1.0-internal.1](https://github.com/tim0n1994/eagleye/releases/tag/v1.1.0-internal.1)
+[Internal release v1.1.0-internal.1](https://github.com/tim0n1994/eagleye/releases/tag/v1.1.0-internal.1) · [latest CI](https://github.com/tim0n1994/eagleye/actions/runs/40056951943)
 
 ### [World Patch 现实补丁](https://github.com/tim0n1994/ohmyrokid)
 
