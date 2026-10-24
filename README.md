@@ -81,6 +81,14 @@ A fork of [morluto/rea](https://github.com/morluto/rea): one MCP surface for und
 
 A fork of [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer), maintained as a downstream workspace with upstream attribution intact.
 
+### [NanoSparks](https://github.com/tim0n1994/nanosparks)
+
+**把真实对话变成带时间证据的思维单元、洞察图谱和可复用上下文。**
+
+NanoSparks is the human thought infrastructure line: source material becomes timestamped evidence, structured thought, and context that can be searched and reused.
+
+[Internal preview v0.1.0-internal.1](https://github.com/tim0n1994/nanosparks/releases/tag/v0.1.0-internal.1)
+
 ### [Apollo](https://github.com/tim0n1994/Apollo)
 
 **Air Instrument V3：把空气做成一种可演奏、可感知的接口。**
