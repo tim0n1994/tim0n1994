@@ -29,6 +29,8 @@ A local-first Personal Agency Layer for keeping intent, responsibility, authoriz
 
 Intent-driven content evolution: Udify reads a game's structure, turns a plain-language request into atomic edits, shows the evidence, validates the result, and keeps the change reversible.
 
+[Public technical preview v0.1.0-alpha.1](https://github.com/tim0n1994/udify/releases/tag/v0.1.0-alpha.1) · [双语 README](https://github.com/tim0n1994/udify/blob/main/README.zh-CN.md)
+
 创作在这里是变换，不是生成。
 
 ### [World Patch 现实补丁](https://github.com/tim0n1994/ohmyrokid)
