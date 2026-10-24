@@ -33,6 +33,30 @@ Intent-driven content evolution: Udify reads a game's structure, turns a plain-l
 
 创作在这里是变换，不是生成。
 
+### [Salon9](https://github.com/tim0n1994/salon9)
+
+**AI 原生实时语音圆桌：AI 永不入场。**
+
+事件流和隐形工作人员把对话变具体、可检索，并把发布权留给参与者。
+
+[Private beta v0.1.0-beta.1](https://github.com/tim0n1994/salon9/releases/tag/v0.1.0-beta.1)
+
+### [WooshaLoop](https://github.com/tim0n1994/wooshaloop)
+
+**把情绪信号变成可回应、可回看的回路。**
+
+An internal MVP for signals, responses, consent, and weekly loop weather, with the contract and CI gate kept explicit.
+
+[Internal preview v0.1.0-internal.4](https://github.com/tim0n1994/wooshaloop/releases/tag/v0.1.0-internal.4)
+
+### [Eagleye](https://github.com/tim0n1994/eagleye)
+
+**An intelligence pipeline hosted on Argus ThinkPad.**
+
+The internal release packages the verified code line; live corpus, credentials, and ThinkPad runtime remain deployment inputs.
+
+[Internal release v1.1.0-internal.1](https://github.com/tim0n1994/eagleye/releases/tag/v1.1.0-internal.1)
+
 ### [World Patch 现实补丁](https://github.com/tim0n1994/ohmyrokid)
 
 **让眼镜理解你想要的现实，并带你把它改出来。**
