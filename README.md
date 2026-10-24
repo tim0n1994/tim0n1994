@@ -43,6 +43,18 @@ A Rokid Glasses prototype that observes the current world, compares it with a ta
 
 我在这个 fork 中补充 fmt、clippy 和 test CI；项目本体属于 [W-Mai/atman](https://github.com/W-Mai/atman)。
 
+### [REA](https://github.com/tim0n1994/rea)
+
+**Reverse Engineer Anything.**
+
+A fork of [morluto/rea](https://github.com/morluto/rea): one MCP surface for understanding binaries, applications, and runtime behavior.
+
+### [DeepInfer](https://github.com/tim0n1994/DeepInfer)
+
+**High-performance inference, kept close to the upstream implementation.**
+
+A fork of [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer), maintained as a downstream workspace with upstream attribution intact.
+
 ## The common thread
 
 我不把“模型说了什么”当成“世界发生了什么”。
