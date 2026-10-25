@@ -81,7 +81,7 @@ A Rokid Glasses prototype that observes the current world, compares it with a ta
 
 A private Next.js/PWA voice-social prototype with visible safety boundaries, creator-agency ideas, and Supabase/LiveKit/Stripe seams. Its preview proves typecheck and build; live services, moderation, payouts, and production operations remain open.
 
-[Private preview v0.1.0-preview.1](https://github.com/tim0n1994/Neosoul/releases/tag/v0.1.0-preview.1) · [README](https://github.com/tim0n1994/Neosoul/blob/main/README.md) · [CI](https://github.com/tim0n1994/Neosoul/actions/runs/40152465321)
+[Private preview v0.1.0-preview.1](https://github.com/tim0n1994/Neosoul/releases/tag/v0.1.0-preview.1) · [README](https://github.com/tim0n1994/Neosoul/blob/main/README.md) · [CI](https://github.com/tim0n1994/Neosoul/actions/runs/40152697586)
 
 ### [Ether — Eclipse](https://github.com/tim0n1994/Ether)
 
