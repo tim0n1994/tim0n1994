@@ -79,9 +79,9 @@ A Rokid Glasses prototype that observes the current world, compares it with a ta
 
 **Voice social without the paywall maze.**
 
-A private Next.js/PWA voice-social prototype with visible safety boundaries and Supabase/LiveKit seams. CI, deployed provider smoke, and public auth E2E are green; Stripe remains optional future work, while moderation, payouts, and Vercel production promotion remain open.
+A public Next.js/PWA voice-social prototype with visible safety boundaries and Supabase/LiveKit seams. v0.1.1 is deployed on Vercel; CI, provider smoke, and public auth E2E are green. Stripe remains optional future work, while moderation and payouts remain open.
 
-[Private preview v0.1.0-preview.1](https://github.com/tim0n1994/Neosoul/releases/tag/v0.1.0-preview.1) · [README](https://github.com/tim0n1994/Neosoul/blob/main/README.md) · [CI](https://github.com/tim0n1994/Neosoul/actions/runs/40154387784)
+[Public stable release v0.1.1](https://github.com/tim0n1994/Neosoul/releases/tag/v0.1.1) · [README](https://github.com/tim0n1994/Neosoul/blob/main/README.md) · [CI](https://github.com/tim0n1994/Neosoul/actions/runs/40204840121)
 
 ### [Ether — Eclipse](https://github.com/tim0n1994/Ether)
 
