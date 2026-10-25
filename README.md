@@ -75,6 +75,46 @@ An evidence-linked intelligence pipeline for collection, enrichment, translation
 
 A Rokid Glasses prototype that observes the current world, compares it with a target state, guides a step-by-step patch, and verifies each transition.
 
+### [Neosoul](https://github.com/tim0n1994/Neosoul)
+
+**Voice social without the paywall maze.**
+
+A private Next.js/PWA voice-social prototype with visible safety boundaries, creator-agency ideas, and Supabase/LiveKit/Stripe seams. Its preview proves typecheck and build; live services, moderation, payouts, and production operations remain open.
+
+[Private preview v0.1.0-preview.1](https://github.com/tim0n1994/Neosoul/releases/tag/v0.1.0-preview.1) · [README](https://github.com/tim0n1994/Neosoul/blob/main/README.md) · [CI](https://github.com/tim0n1994/Neosoul/actions/runs/40119063994)
+
+### [Ether — Eclipse](https://github.com/tim0n1994/Ether)
+
+**Remix in the space between recognition and surprise.**
+
+A private Vite/React UI prototype for original↔novelty balance, stem controls, and a context-agent surface using simulated track data. Production audio inference and hardware integration remain unverified.
+
+[Private preview v0.0.0-preview.1](https://github.com/tim0n1994/Ether/releases/tag/v0.0.0-preview.1) · [README](https://github.com/tim0n1994/Ether/blob/main/README.md) · [CI](https://github.com/tim0n1994/Ether/actions/runs/40119251441)
+
+### [FiatCine — Digital Backlot](https://github.com/tim0n1994/FiatCine)
+
+**Turn a script into a shot plan, then move from assets to director decisions.**
+
+A private AI filmmaking and previsualization prototype: Script → Shot List → Asset Gym → Director Console. Typecheck and build pass; rendering, export, and a complete production asset pipeline remain planned.
+
+[Private preview v0.0.0-preview.1](https://github.com/tim0n1994/FiatCine/releases/tag/v0.0.0-preview.1) · [README](https://github.com/tim0n1994/FiatCine/blob/main/README.md) · [CI](https://github.com/tim0n1994/FiatCine/actions/runs/40119593325)
+
+### [Genesis OS](https://github.com/tim0n1994/Genesis)
+
+**Make an organization's DNA, authority, health, and growth visible.**
+
+A private organization-modeling prototype with a Vite/React surface for setup, roles, health, settlement, immersion, and growth. Authentication, durable data, and real-time collaboration remain open.
+
+[Private preview v0.0.0-preview.1](https://github.com/tim0n1994/Genesis/releases/tag/v0.0.0-preview.1) · [README](https://github.com/tim0n1994/Genesis/blob/main/README.md) · [CI](https://github.com/tim0n1994/Genesis/actions/runs/40119729521)
+
+### [Genesis Org OS](https://github.com/tim0n1994/genesis-org)
+
+**From Foundation to Operation, Growth, and Incentive.**
+
+A private frontend/backend organization OS prototype. Both build surfaces pass; authentication, database persistence, WebSockets, billing, and production operations remain open.
+
+[Private preview v2.1.0-preview.1](https://github.com/tim0n1994/genesis-org/releases/tag/v2.1.0-preview.1) · [README](https://github.com/tim0n1994/genesis-org/blob/master/README.md) · [CI](https://github.com/tim0n1994/genesis-org/actions/runs/40119865754)
+
 ### [atman](https://github.com/tim0n1994/atman)
 
 **Contributing to a flow-driven agent runtime.**
