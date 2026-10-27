@@ -23,7 +23,7 @@ A local-first Personal Agency Layer for keeping intent, responsibility, authoriz
 
 请求不自动成为责任，建议不自动成为授权，执行也不自动等于外部结果已经发生。
 
-[Preview release v0.0.0-preview.1](https://github.com/tim0n1994/leubai-v2/releases/tag/v0.0.0-preview.1) · [README](https://github.com/tim0n1994/leubai-v2/blob/main/README.md)
+[Preview release v0.0.0-preview.1](https://github.com/tim0n1994/leubai-v2/releases/tag/v0.0.0-preview.1) · [English README](https://github.com/tim0n1994/leubai-v2/blob/main/README.en.md) · [中文 README](https://github.com/tim0n1994/leubai-v2/blob/main/README.md)
 
 ### [Muses](https://github.com/tim0n1994/muses)
 
@@ -41,7 +41,7 @@ Muses turns editor and session signals into explainable belief state, conservati
 
 Intent-driven content evolution: Udify reads a game's structure, turns a plain-language request into atomic edits, shows the evidence, validates the result, and keeps the change reversible.
 
-[Public technical preview v0.1.0-alpha.1](https://github.com/tim0n1994/udify/releases/tag/v0.1.0-alpha.1) · [双语 README](https://github.com/tim0n1994/udify/blob/main/README.zh-CN.md)
+[Public technical preview v0.1.0-alpha.1](https://github.com/tim0n1994/udify/releases/tag/v0.1.0-alpha.1) · [English README](https://github.com/tim0n1994/udify/blob/main/README.md) · [中文 README](https://github.com/tim0n1994/udify/blob/main/README.zh-CN.md)
 
 创作在这里是变换，不是生成。
 
@@ -67,7 +67,7 @@ An internal MVP for signals, responses, consent, and weekly loop weather, with t
 
 An evidence-linked intelligence pipeline for collection, enrichment, translation, knowledge graph work, and operator-facing briefs. Provenance, feed health, retry state, and runtime boundaries stay visible in the design.
 
-[Internal release v1.1.0-internal.1](https://github.com/tim0n1994/eagleye/releases/tag/v1.1.0-internal.1) · [latest CI](https://github.com/tim0n1994/eagleye/actions/runs/40056951943)
+[Public stable release v1.1.1](https://github.com/tim0n1994/eagleye/releases/tag/v1.1.1) · [English README](https://github.com/tim0n1994/eagleye/blob/main/README.md) · [中文 README](https://github.com/tim0n1994/eagleye/blob/main/README.zh-CN.md) · [CI](https://github.com/tim0n1994/eagleye/actions/workflows/ci.yml)
 
 ### [World Patch 现实补丁](https://github.com/tim0n1994/ohmyrokid)
 
@@ -75,13 +75,15 @@ An evidence-linked intelligence pipeline for collection, enrichment, translation
 
 A Rokid Glasses prototype that observes the current world, compares it with a target state, guides a step-by-step patch, and verifies each transition.
 
+[Preview release v0.1.0-preview.1](https://github.com/tim0n1994/ohmyrokid/releases/tag/v0.1.0-preview.1) · [English README](https://github.com/tim0n1994/ohmyrokid/blob/main/README.en.md) · [中文 README](https://github.com/tim0n1994/ohmyrokid/blob/main/README.md)
+
 ### [Neosoul](https://github.com/tim0n1994/Neosoul)
 
 **Voice social without the paywall maze.**
 
 A public Next.js/PWA voice-social prototype with visible safety boundaries and Supabase/LiveKit seams. v0.1.1 is deployed on Vercel; CI, provider smoke, and public auth E2E are green. Stripe remains optional future work, while moderation and payouts remain open.
 
-[Public stable release v0.1.1](https://github.com/tim0n1994/Neosoul/releases/tag/v0.1.1) · [README](https://github.com/tim0n1994/Neosoul/blob/main/README.md) · [CI](https://github.com/tim0n1994/Neosoul/actions/runs/40204840121)
+[Public stable release v0.1.1](https://github.com/tim0n1994/Neosoul/releases/tag/v0.1.1) · [English README](https://github.com/tim0n1994/Neosoul/blob/main/README.en.md) · [中文 README](https://github.com/tim0n1994/Neosoul/blob/main/README.md) · [CI](https://github.com/tim0n1994/Neosoul/actions/runs/40204840121)
 
 ### [Ether — Eclipse](https://github.com/tim0n1994/Ether)
 
@@ -133,13 +135,20 @@ A fork of [morluto/rea](https://github.com/morluto/rea): one MCP surface for und
 
 A fork of [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer), maintained as a downstream workspace with upstream attribution intact.
 
+### [GPU Unlock Ada](https://github.com/tim0n1994/gpu-unlock-ada)
+
+**Experimental GPU capability work for Ada cards.**
+
+A public fork of [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada), with upstream attribution preserved.
+
+
 ### [NanoSparks](https://github.com/tim0n1994/nanosparks)
 
 **把真实对话变成带时间证据的思维单元、洞察图谱和可复用上下文。**
 
 NanoSparks is the human thought infrastructure line: source material becomes timestamped evidence, structured thought, and context that can be searched and reused.
 
-[Internal preview v0.1.0-internal.1](https://github.com/tim0n1994/nanosparks/releases/tag/v0.1.0-internal.1)
+[Public stable release v0.1.2](https://github.com/tim0n1994/nanosparks/releases/tag/v0.1.2) · [English README](https://github.com/tim0n1994/nanosparks/blob/main/README.md) · [中文 README](https://github.com/tim0n1994/nanosparks/blob/main/README.zh-CN.md)
 
 ### [Apollo](https://github.com/tim0n1994/Apollo)
 
