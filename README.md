@@ -23,7 +23,7 @@ A local-first Personal Agency Layer for keeping intent, responsibility, authoriz
 
 请求不自动成为责任，建议不自动成为授权，执行也不自动等于外部结果已经发生。
 
-[Preview release v0.0.0-preview.2](https://github.com/tim0n1994/leubai-v2/releases/tag/v0.0.0-preview.2) · [English README](https://github.com/tim0n1994/leubai-v2/blob/main/README.en.md) · [中文 README](https://github.com/tim0n1994/leubai-v2/blob/main/README.md) · [MIT License](https://github.com/tim0n1994/leubai-v2/blob/main/LICENSE)
+[Preview release v0.0.0-preview.3](https://github.com/tim0n1994/leubai-v2/releases/tag/v0.0.0-preview.3) · [English README](https://github.com/tim0n1994/leubai-v2/blob/main/README.en.md) · [中文 README](https://github.com/tim0n1994/leubai-v2/blob/main/README.md) · [MIT License](https://github.com/tim0n1994/leubai-v2/blob/main/LICENSE)
 
 ### [Muses](https://github.com/tim0n1994/muses)
 
