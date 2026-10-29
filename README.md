@@ -23,7 +23,7 @@ These projects have public source, public release surfaces, and public evidence.
 
 An evidence-linked intelligence pipeline for collection, enrichment, translation, knowledge graph work, and operator-facing briefs. Provenance, feed health, retry state, and runtime boundaries stay visible in the design.
 
-[Public stable release v1.1.3](https://github.com/tim0n1994/eagleye/releases/tag/v1.1.3) · [English README](https://github.com/tim0n1994/eagleye/blob/main/README.md) · [中文 README](https://github.com/tim0n1994/eagleye/blob/main/README.zh-CN.md) · [CI](https://github.com/tim0n1994/eagleye/actions/workflows/ci.yml)
+[Public stable release v1.1.3](https://github.com/tim0n1994/eagleye/releases/tag/v1.1.4) · [English README](https://github.com/tim0n1994/eagleye/blob/main/README.md) · [中文 README](https://github.com/tim0n1994/eagleye/blob/main/README.zh-CN.md) · [CI](https://github.com/tim0n1994/eagleye/actions/workflows/ci.yml)
 
 ### [Neosoul](https://github.com/tim0n1994/Neosoul)
 
@@ -31,7 +31,7 @@ An evidence-linked intelligence pipeline for collection, enrichment, translation
 
 A public Next.js/PWA voice-social preview with visible safety boundaries and Supabase/LiveKit seams. v0.1.3 is the current public release line; the application path has prior provider smoke and public auth E2E evidence. Stripe remains optional future work, while moderation and payouts remain open.
 
-[Public stable preview v0.1.3](https://github.com/tim0n1994/Neosoul/releases/tag/v0.1.3) · [English README](https://github.com/tim0n1994/Neosoul/blob/main/README.en.md) · [中文 README](https://github.com/tim0n1994/Neosoul/blob/main/README.md) · [MIT License](https://github.com/tim0n1994/Neosoul/blob/main/LICENSE) · [CI](https://github.com/tim0n1994/Neosoul/actions/workflows/ci.yml)
+[Public stable preview v0.1.3](https://github.com/tim0n1994/Neosoul/releases/tag/v0.1.4) · [English README](https://github.com/tim0n1994/Neosoul/blob/main/README.en.md) · [中文 README](https://github.com/tim0n1994/Neosoul/blob/main/README.md) · [MIT License](https://github.com/tim0n1994/Neosoul/blob/main/LICENSE) · [CI](https://github.com/tim0n1994/Neosoul/actions/workflows/ci.yml)
 
 ### [LeuBai 留白](https://github.com/tim0n1994/leubai-v2)
 
