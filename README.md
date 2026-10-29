@@ -13,53 +13,9 @@ intent → request → commitment → authorization → action → verification
 意图   →  请求   →    承诺     →     授权      →  行动  →    核验
 ```
 
-## Projects
+## Public projects
 
-### [LeuBai 留白](https://github.com/tim0n1994/leubai-v2)
-
-**把时间还给人。**
-
-A local-first Personal Agency Layer for keeping intent, responsibility, authorization, action, and protected time on one verifiable timeline.
-
-请求不自动成为责任，建议不自动成为授权，执行也不自动等于外部结果已经发生。
-
-[Preview release v0.0.0-preview.3](https://github.com/tim0n1994/leubai-v2/releases/tag/v0.0.0-preview.3) · [English README](https://github.com/tim0n1994/leubai-v2/blob/main/README.en.md) · [中文 README](https://github.com/tim0n1994/leubai-v2/blob/main/README.md) · [MIT License](https://github.com/tim0n1994/leubai-v2/blob/main/LICENSE)
-
-### [Muses](https://github.com/tim0n1994/muses)
-
-**The local state machine between developer signals and machine action.**
-
-Muses turns editor and session signals into explainable belief state, conservative policy, and reversible soundscape effects. It keeps the seam between inference and action visible: `signal → state → policy → effect → receipt`.
-
-把开发者周围的真实信号变成可解释的状态、保守的策略和可回看的声音动作；未知可以保持未知，行动必须留下证据。
-
-[Internal preview v0.3.0-internal.2](https://github.com/tim0n1994/muses/releases/tag/v0.3.0-internal.2) · [README](https://github.com/tim0n1994/muses/blob/main/README.md) · [CI](https://github.com/tim0n1994/muses/actions/runs/40081644038)
-
-### [Udify](https://github.com/tim0n1994/udify)
-
-**Tell a game what to change. Approve the patch before it touches your files.**
-
-Intent-driven content evolution: Udify reads a game's structure, turns a plain-language request into atomic edits, shows the evidence, validates the result, and keeps the change reversible.
-
-[Public technical preview v0.1.0-alpha.1](https://github.com/tim0n1994/udify/releases/tag/v0.1.0-alpha.1) · [English README](https://github.com/tim0n1994/udify/blob/main/README.md) · [中文 README](https://github.com/tim0n1994/udify/blob/main/README.zh-CN.md)
-
-创作在这里是变换，不是生成。
-
-### [Salon9](https://github.com/tim0n1994/salon9)
-
-**AI 原生实时语音圆桌：AI 永不入场。**
-
-事件流和隐形工作人员把对话变具体、可检索，并把发布权留给参与者。
-
-[Private beta v0.1.0-beta.1](https://github.com/tim0n1994/salon9/releases/tag/v0.1.0-beta.1)
-
-### [WooshaLoop](https://github.com/tim0n1994/wooshaloop)
-
-**把情绪信号变成可回应、可回看的回路。**
-
-An internal MVP for signals, responses, consent, and weekly loop weather, with the contract and CI gate kept explicit.
-
-[Internal preview v0.1.0-internal.4](https://github.com/tim0n1994/wooshaloop/releases/tag/v0.1.0-internal.4)
+These projects have public source, public release surfaces, and public evidence. Preview labels stay explicit.
 
 ### [Eagleye](https://github.com/tim0n1994/eagleye)
 
@@ -67,80 +23,25 @@ An internal MVP for signals, responses, consent, and weekly loop weather, with t
 
 An evidence-linked intelligence pipeline for collection, enrichment, translation, knowledge graph work, and operator-facing briefs. Provenance, feed health, retry state, and runtime boundaries stay visible in the design.
 
-[Public stable release v1.1.2](https://github.com/tim0n1994/eagleye/releases/tag/v1.1.2) · [English README](https://github.com/tim0n1994/eagleye/blob/main/README.md) · [中文 README](https://github.com/tim0n1994/eagleye/blob/main/README.zh-CN.md) · [CI](https://github.com/tim0n1994/eagleye/actions/workflows/ci.yml)
-
-### [World Patch 现实补丁](https://github.com/tim0n1994/ohmyrokid)
-
-**让眼镜理解你想要的现实，并带你把它改出来。**
-
-A Rokid Glasses prototype that observes the current world, compares it with a target state, guides a step-by-step patch, and verifies each transition.
-
-[Preview release v0.1.0-preview.2](https://github.com/tim0n1994/ohmyrokid/releases/tag/v0.1.0-preview.2) · [English README](https://github.com/tim0n1994/ohmyrokid/blob/main/README.en.md) · [中文 README](https://github.com/tim0n1994/ohmyrokid/blob/main/README.md) · [MIT License](https://github.com/tim0n1994/ohmyrokid/blob/main/LICENSE)
+[Public stable release v1.1.3](https://github.com/tim0n1994/eagleye/releases/tag/v1.1.3) · [English README](https://github.com/tim0n1994/eagleye/blob/main/README.md) · [中文 README](https://github.com/tim0n1994/eagleye/blob/main/README.zh-CN.md) · [CI](https://github.com/tim0n1994/eagleye/actions/workflows/ci.yml)
 
 ### [Neosoul](https://github.com/tim0n1994/Neosoul)
 
 **Voice social without the paywall maze.**
 
-A public Next.js/PWA voice-social prototype with visible safety boundaries and Supabase/LiveKit seams. v0.1.2 is the current public release line; the application path has prior provider smoke and public auth E2E evidence. Stripe remains optional future work, while moderation and payouts remain open.
+A public Next.js/PWA voice-social preview with visible safety boundaries and Supabase/LiveKit seams. v0.1.3 is the current public release line; the application path has prior provider smoke and public auth E2E evidence. Stripe remains optional future work, while moderation and payouts remain open.
 
-[Public stable release v0.1.2](https://github.com/tim0n1994/Neosoul/releases/tag/v0.1.2) · [English README](https://github.com/tim0n1994/Neosoul/blob/main/README.en.md) · [中文 README](https://github.com/tim0n1994/Neosoul/blob/main/README.md) · [MIT License](https://github.com/tim0n1994/Neosoul/blob/main/LICENSE) · [CI](https://github.com/tim0n1994/Neosoul/actions/runs/40513007870)
+[Public stable preview v0.1.3](https://github.com/tim0n1994/Neosoul/releases/tag/v0.1.3) · [English README](https://github.com/tim0n1994/Neosoul/blob/main/README.en.md) · [中文 README](https://github.com/tim0n1994/Neosoul/blob/main/README.md) · [MIT License](https://github.com/tim0n1994/Neosoul/blob/main/LICENSE) · [CI](https://github.com/tim0n1994/Neosoul/actions/workflows/ci.yml)
 
-### [Ether — Eclipse](https://github.com/tim0n1994/Ether)
+### [LeuBai 留白](https://github.com/tim0n1994/leubai-v2)
 
-**Remix in the space between recognition and surprise.**
+**把时间还给人。**
 
-A private Vite/React UI prototype for original↔novelty balance, stem controls, and a context-agent surface using simulated track data. Production audio inference and hardware integration remain unverified.
+A local-first Personal Agency Layer for keeping intent, responsibility, authorization, action, and protected time on one verifiable timeline. This is a public preview, not a production product; visual, deployment, and device acceptance remain separate evidence layers.
 
-[Private preview v0.0.0-preview.1](https://github.com/tim0n1994/Ether/releases/tag/v0.0.0-preview.1) · [README](https://github.com/tim0n1994/Ether/blob/main/README.md) · [CI](https://github.com/tim0n1994/Ether/actions/runs/40119251441)
+请求不自动成为责任，建议不自动成为授权，执行也不自动等于外部结果已经发生。
 
-### [FiatCine — Digital Backlot](https://github.com/tim0n1994/FiatCine)
-
-**Turn a script into a shot plan, then move from assets to director decisions.**
-
-A private AI filmmaking and previsualization prototype: Script → Shot List → Asset Gym → Director Console. Typecheck and build pass; rendering, export, and a complete production asset pipeline remain planned.
-
-[Private preview v0.0.0-preview.1](https://github.com/tim0n1994/FiatCine/releases/tag/v0.0.0-preview.1) · [README](https://github.com/tim0n1994/FiatCine/blob/main/README.md) · [CI](https://github.com/tim0n1994/FiatCine/actions/runs/40119593325)
-
-### [Genesis OS](https://github.com/tim0n1994/Genesis)
-
-**Make an organization's DNA, authority, health, and growth visible.**
-
-A private organization-modeling prototype with a Vite/React surface for setup, roles, health, settlement, immersion, and growth. Authentication, durable data, and real-time collaboration remain open.
-
-[Private preview v0.0.0-preview.1](https://github.com/tim0n1994/Genesis/releases/tag/v0.0.0-preview.1) · [README](https://github.com/tim0n1994/Genesis/blob/main/README.md) · [CI](https://github.com/tim0n1994/Genesis/actions/runs/40119729521)
-
-### [Genesis Org OS](https://github.com/tim0n1994/genesis-org)
-
-**From Foundation to Operation, Growth, and Incentive.**
-
-A private frontend/backend organization OS prototype. Both build surfaces pass; authentication, database persistence, WebSockets, billing, and production operations remain open.
-
-[Private preview v2.1.0-preview.1](https://github.com/tim0n1994/genesis-org/releases/tag/v2.1.0-preview.1) · [README](https://github.com/tim0n1994/genesis-org/blob/master/README.md) · [CI](https://github.com/tim0n1994/genesis-org/actions/runs/40119865754)
-
-### [atman](https://github.com/tim0n1994/atman)
-
-**Contributing to a flow-driven agent runtime.**
-
-我在这个 fork 中补充 fmt、clippy 和 test CI；项目本体属于 [W-Mai/atman](https://github.com/W-Mai/atman)。
-
-### [REA](https://github.com/tim0n1994/rea)
-
-**Reverse Engineer Anything.**
-
-A fork of [morluto/rea](https://github.com/morluto/rea): one MCP surface for understanding binaries, applications, and runtime behavior.
-
-### [DeepInfer](https://github.com/tim0n1994/DeepInfer)
-
-**High-performance inference, kept close to the upstream implementation.**
-
-A fork of [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer), maintained as a downstream workspace with upstream attribution intact.
-
-### [GPU Unlock Ada](https://github.com/tim0n1994/gpu-unlock-ada)
-
-**Experimental GPU capability work for Ada cards.**
-
-A public fork of [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada), with upstream attribution preserved.
-
+[Public preview v0.0.0-preview.4](https://github.com/tim0n1994/leubai-v2/releases/tag/v0.0.0-preview.4) · [English README](https://github.com/tim0n1994/leubai-v2/blob/main/README.en.md) · [中文 README](https://github.com/tim0n1994/leubai-v2/blob/main/README.md) · [MIT License](https://github.com/tim0n1994/leubai-v2/blob/main/LICENSE)
 
 ### [NanoSparks](https://github.com/tim0n1994/nanosparks)
 
@@ -150,13 +51,93 @@ NanoSparks is the human thought infrastructure line: source material becomes tim
 
 [Public stable release v0.1.2](https://github.com/tim0n1994/nanosparks/releases/tag/v0.1.2) · [English README](https://github.com/tim0n1994/nanosparks/blob/main/README.md) · [中文 README](https://github.com/tim0n1994/nanosparks/blob/main/README.zh-CN.md)
 
-### [Apollo](https://github.com/tim0n1994/Apollo)
+### [Udify](https://github.com/tim0n1994/udify)
+
+**Tell a game what to change. Approve the patch before it touches your files.**
+
+Intent-driven content evolution: Udify reads a game's structure, turns a plain-language request into atomic edits, shows the evidence, validates the result, and keeps the change reversible.
+
+[Public technical preview v0.1.0-alpha.1](https://github.com/tim0n1994/udify/releases/tag/v0.1.0-alpha.1) · [English README](https://github.com/tim0n1994/udify/blob/main/README.md) · [中文 README](https://github.com/tim0n1994/udify/blob/main/README.zh-CN.md)
+
+### [World Patch 现实补丁](https://github.com/tim0n1994/ohmyrokid)
+
+**让眼镜理解你想要的现实，并带你把它改出来。**
+
+A Rokid Glasses prototype that observes the current world, compares it with a target state, guides a step-by-step patch, and verifies each transition. It remains a hackathon preview with separate device and deployment acceptance.
+
+[Hackathon preview v0.1.0-preview.3](https://github.com/tim0n1994/ohmyrokid/releases/tag/v0.1.0-preview.3) · [English README](https://github.com/tim0n1994/ohmyrokid/blob/main/README.en.md) · [中文 README](https://github.com/tim0n1994/ohmyrokid/blob/main/README.md) · [MIT License](https://github.com/tim0n1994/ohmyrokid/blob/main/LICENSE)
+
+## Active private work
+
+These are selected internal prototypes. They are listed as context for the workbench and are not public distribution surfaces.
+
+### Muses
+
+**The local state machine between developer signals and machine action.**
+
+Muses turns editor and session signals into explainable belief state, conservative policy, and reversible soundscape effects. Internal preview v0.3.0-internal.2.
+
+### Salon9
+
+**AI 原生实时语音圆桌：AI 永不入场。**
+
+An internal beta for event-backed, searchable conversations where publishing remains with participants. Internal beta v0.1.0-beta.1.
+
+### WooshaLoop
+
+**把情绪信号变成可回应、可回看的回路。**
+
+An internal MVP for signals, responses, consent, and weekly loop weather. Internal preview v0.1.0-internal.4.
+
+### Ether — Eclipse
+
+**Remix in the space between recognition and surprise.**
+
+A private Vite/React UI prototype for original↔novelty balance, stem controls, and a context-agent surface using simulated track data. Production audio inference and hardware integration remain unverified.
+
+### FiatCine — Digital Backlot
+
+**Turn a script into a shot plan, then move from assets to director decisions.**
+
+A private AI filmmaking and previsualization prototype: Script → Shot List → Asset Gym → Director Console. Rendering, export, and a complete production asset pipeline remain planned.
+
+### Genesis OS
+
+**Make an organization's DNA, authority, health, and growth visible.**
+
+A private organization-modeling prototype for setup, roles, health, settlement, immersion, and growth. Authentication, durable data, and real-time collaboration remain open.
+
+### Genesis Org OS
+
+**From Foundation to Operation, Growth, and Incentive.**
+
+A private frontend/backend organization OS prototype. Authentication, database persistence, WebSockets, billing, and production operations remain open.
+
+### Apollo
 
 **Air Instrument V3：把空气做成一种可演奏、可感知的接口。**
 
-An openvela based bimanual AI air instrument prototype for the 2026 openvela AI Hardware Contest.
+An openvela based bimanual AI air instrument prototype for the 2026 openvela AI Hardware Contest. Pre-release firmware v0.1.0-demo.3.
 
-[Pre-release firmware v0.1.0-demo.3](https://github.com/tim0n1994/Apollo/releases/tag/v0.1.0-demo.3)
+## Forks with upstream attribution
+
+These repositories remain downstream workspaces. Their upstream source, README, license, and attribution stay authoritative.
+
+### [atman](https://github.com/tim0n1994/atman) → [W-Mai/atman](https://github.com/W-Mai/atman)
+
+A forked flow-driven AI coding agent runtime. My downstream change is CI coverage for fmt, clippy, and tests.
+
+### [REA](https://github.com/tim0n1994/rea) → [morluto/rea](https://github.com/morluto/rea)
+
+A fork for reverse-engineering workflows through one MCP surface, with the upstream project remaining authoritative.
+
+### [DeepInfer](https://github.com/tim0n1994/DeepInfer) → [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)
+
+A downstream workspace for the upstream high-performance DeepSeek inference framework.
+
+### [GPU Unlock Ada](https://github.com/tim0n1994/gpu-unlock-ada) → [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada)
+
+A public fork for downstream GPU capability work, with upstream attribution and license preserved.
 
 ## The common thread
 
