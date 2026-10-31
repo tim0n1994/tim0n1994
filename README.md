@@ -23,15 +23,23 @@ These projects have public source, public release surfaces, and public evidence.
 
 An evidence-linked intelligence pipeline for collection, enrichment, translation, knowledge graph work, and operator-facing briefs. Provenance, feed health, retry state, and runtime boundaries stay visible in the design.
 
-[Public stable release v1.1.3](https://github.com/tim0n1994/eagleye/releases/tag/v1.1.4) · [English README](https://github.com/tim0n1994/eagleye/blob/main/README.md) · [中文 README](https://github.com/tim0n1994/eagleye/blob/main/README.zh-CN.md) · [CI](https://github.com/tim0n1994/eagleye/actions/workflows/ci.yml)
+[Public stable release v1.1.4](https://github.com/tim0n1994/eagleye/releases/tag/v1.1.4) · [English README](https://github.com/tim0n1994/eagleye/blob/main/README.md) · [中文 README](https://github.com/tim0n1994/eagleye/blob/main/README.zh-CN.md) · [CI](https://github.com/tim0n1994/eagleye/actions/workflows/ci.yml)
+
+### [Muses Synth](https://github.com/tim0n1994/muses-synth-beta)
+
+**Local developer signals, explainable states, and reversible synthetic sound.**
+
+An experimental single-user local beta: opt into file-change observation, review a suggestion, and start or pause the sound yourself. The public edition ships no private recordings. 本地单用户合成音景实验版，声音由你主动启动和暂停。
+
+[Beta v0.3.3-beta.1](https://github.com/tim0n1994/muses-synth-beta/releases/tag/v0.3.3-beta.1) · [English README](https://github.com/tim0n1994/muses-synth-beta/blob/main/README.md) · [中文 README](https://github.com/tim0n1994/muses-synth-beta/blob/main/README.zh-CN.md) · [CI](https://github.com/tim0n1994/muses-synth-beta/actions/workflows/ci.yml)
 
 ### [Neosoul](https://github.com/tim0n1994/Neosoul)
 
 **Voice social without the paywall maze.**
 
-A public Next.js/PWA voice-social preview with visible safety boundaries and Supabase/LiveKit seams. v0.1.3 is the current public release line; the application path has prior provider smoke and public auth E2E evidence. Stripe remains optional future work, while moderation and payouts remain open.
+A public Next.js/PWA voice-social preview with visible safety boundaries and Supabase/LiveKit seams. v0.1.4 is the current public release tag; the application path has prior provider smoke and public auth E2E evidence. Stripe remains optional future work, while moderation and payouts remain open.
 
-[Public stable preview v0.1.3](https://github.com/tim0n1994/Neosoul/releases/tag/v0.1.4) · [English README](https://github.com/tim0n1994/Neosoul/blob/main/README.en.md) · [中文 README](https://github.com/tim0n1994/Neosoul/blob/main/README.md) · [MIT License](https://github.com/tim0n1994/Neosoul/blob/main/LICENSE) · [CI](https://github.com/tim0n1994/Neosoul/actions/workflows/ci.yml)
+[Public stable preview v0.1.4](https://github.com/tim0n1994/Neosoul/releases/tag/v0.1.4) · [English README](https://github.com/tim0n1994/Neosoul/blob/main/README.en.md) · [中文 README](https://github.com/tim0n1994/Neosoul/blob/main/README.md) · [MIT License](https://github.com/tim0n1994/Neosoul/blob/main/LICENSE) · [CI](https://github.com/tim0n1994/Neosoul/actions/workflows/ci.yml)
 
 ### [LeuBai 留白](https://github.com/tim0n1994/leubai-v2)
 
@@ -75,7 +83,7 @@ These are selected internal prototypes. They are listed as context for the workb
 
 **The local state machine between developer signals and machine action.**
 
-Muses turns editor and session signals into explainable belief state, conservative policy, and reversible soundscape effects. Internal preview v0.3.0-internal.2.
+Muses turns editor and session signals into explainable belief state, conservative policy, and reversible soundscape effects. Internal release v0.3.1; the independent synthetic edition is listed above.
 
 ### Salon9
 
